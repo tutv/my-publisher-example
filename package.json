@@ -1,6 +1,6 @@
 {
   "name": "my-publisher-example",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "An example package to test my-publisher cli.",
   "main": "index.js",
   "scripts": {
