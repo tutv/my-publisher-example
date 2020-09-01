@@ -1,6 +1,6 @@
 {
   "name": "my-publisher-example",
-  "version": "16.0.0",
+  "version": "17.0.0",
   "description": "An example package to test my-publisher cli.",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/tutv/my-publisher-example/issues"
   },
-  "homepage": "https://github.com/tutv/my-publisher-example#readme"
+  "homepage": "https://github.com/tutv/my-publisher-example#readme",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "got": "^10.7.0"
+  }
 }
